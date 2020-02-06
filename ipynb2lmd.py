@@ -48,7 +48,6 @@ def text(lines):
 
 def convert_markdown(cell, out):
     content = text(cell["source"])
-    content = content.replace("#", "##")
     if content.startswith("#"):
         # a heading
         out.write(u"\n")
