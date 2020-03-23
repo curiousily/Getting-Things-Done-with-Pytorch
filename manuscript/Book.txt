@@ -1,5 +1,5 @@
 01.getting-started-with-pytorch.md
 04.first-neural-network.md
 05.time-series-forecasting-covid-19.md
-06.time-series-anomaly-ecg-19.md
+06.time-series-anomaly-ecg.md
 02.face-detection-with-detectron2.md
