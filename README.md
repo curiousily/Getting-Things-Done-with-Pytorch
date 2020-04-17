@@ -5,7 +5,7 @@ Learn how to solve real-world problems with Deep Learning models (NLP, Computer 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/curiousily/Getting-Things-Done-with-Pytorch/)
 
 <a href="https://bit.ly/gtd-with-pytorch" target="_blank">
-  <img src="https://raw.githubusercontent.com/curiousily/Getting-Things-Done-with-Pytorch/master/.github/book-cover.png" width="250">
+  <img src="https://raw.githubusercontent.com/curiousily/Getting-Things-Done-with-Pytorch/master/.github/book-cover.png" width="280">
 </a>
 
 <a href="https://bit.ly/gtd-with-pytorch" target="_blank">Read the book here</a>
