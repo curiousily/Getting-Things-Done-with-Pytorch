@@ -5,3 +5,4 @@
 02.face-detection-with-detectron2.md
 07.create-dataset-for-sentiment-analysis.md
 08.sentiment-analysis-with-bert.md
+09.deploy-bert-rest-api.md
