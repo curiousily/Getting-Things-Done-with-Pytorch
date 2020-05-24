@@ -16,6 +16,7 @@ The whole book can be read using the links below. Each part contains a notebook 
 
 - [Getting Started with PyTorch](https://www.curiousily.com/posts/getting-started-with-pytorch/)
 - [Build Your First Neural Network](https://www.curiousily.com/posts/build-your-first-neural-network-with-pytorch/)
+- [Transfer Learning for Image Classification using Torchvision](https://www.curiousily.com/posts/transfer-learning-for-image-classification-using-torchvision-pytorch-and-python/)
 - [Face Detection on Custom Dataset with Detectron2](https://www.curiousily.com/posts/face-detection-on-custom-dataset-with-detectron2-in-python/)
 - [Time Series Forecasting with LSTMs for Daily Coronavirus Cases](https://www.curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/)
 - [Time Series Anomaly Detection using LSTM Autoencoders](https://www.curiousily.com/posts/time-series-anomaly-detection-using-lstm-autoencoder-with-pytorch-in-python/)
