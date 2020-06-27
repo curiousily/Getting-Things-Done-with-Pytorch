@@ -7,3 +7,4 @@
 07.create-dataset-for-sentiment-analysis.md
 08.sentiment-analysis-with-bert.md
 09.deploy-bert-rest-api.md
+10.object-detection-with-YOLO-v5.md
