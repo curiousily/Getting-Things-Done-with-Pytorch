@@ -23,5 +23,6 @@ The whole book can be read using the links below. Each part contains a notebook 
 - [Create Dataset for Sentiment Analysis by Scraping Google Play App Reviews](https://www.curiousily.com/posts/create-dataset-for-sentiment-analysis-by-scraping-google-play-app-reviews-using-python/)
 - [Sentiment Analysis with BERT and Transformers by Hugging Face](https://www.curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/)
 - [Deploy BERT for Sentiment Analysis as REST API using FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
+- [Object Detection on Custom Dataset with YOLO (v5)](https://www.curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5-using-pytorch-and-python/)
 
 Consider buying the book if you want to support my work. Thanks for stopping by! 🤗
